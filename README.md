@@ -11,4 +11,6 @@ In future, Some Codes re-used, generally and repeatly.
 
 |No.| Asset Name | Directory | Description | Used In |
 |:----:|:-----------:|:-----------------:|:-------------------------------------------------|:----------------|
-|01|Sequence Manager|| Sequence (Cutscene) System, some example included.| Exchange Puzzle|
+|01|Sequence Manager|| Sequence (Cutscene) System, some example included.| Exchange Puzzle |
+|TBD|Inventory System||Customizable Inventory System||
+|TBD|||Customizable Inventory System||
